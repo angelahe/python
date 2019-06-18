@@ -1,0 +1,18 @@
+Class              Residents
+---------------------------- 
+Residential        1,263,734
+Residual Sub Area      2,580
+Industrial               922
+Major Park                 0
+
+Sector             Residents
+---------------------------- 
+SOUTH                227,421
+EAST                  58,405
+NORTHEAST            185,562
+NORTH                160,576
+CENTRE               199,977
+NORTHWEST            175,448
+SOUTHEAST            135,314
+WEST                 124,533
+Number of Data lines in file is: 304
